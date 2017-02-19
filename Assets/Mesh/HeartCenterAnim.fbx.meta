@@ -1,0 +1,105 @@
+fileFormatVersion: 2
+guid: 5b53581039af5d04cb091035cc00cfc4
+timeCreated: 1476649166
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: HeartCenterRigged:CTRL
+    100004: HeartCenterRigged:heart
+    100006: HeartCenterRigged:heartBase
+    100008: HeartCenterRigged:heartbeat
+    100010: HeartCenterRigged:heartbeat 1
+    100012: HeartCenterRigged:heartSpikes
+    100014: HeartCenterRigged:MESH
+    100016: HeartCenterRigged:spikes_IN
+    100018: HeartCenterRigged:spikes_IN 1
+    100020: HeartCenterRigged:spikes_MID
+    100022: HeartCenterRigged:spikes_MID 1
+    100024: HeartCenterRigged:spikes_OUT
+    100026: HeartCenterRigged:spikes_OUT 1
+    400000: //RootNode
+    400002: HeartCenterRigged:CTRL
+    400004: HeartCenterRigged:heart
+    400006: HeartCenterRigged:heartBase
+    400008: HeartCenterRigged:heartbeat
+    400010: HeartCenterRigged:heartbeat 1
+    400012: HeartCenterRigged:heartSpikes
+    400014: HeartCenterRigged:MESH
+    400016: HeartCenterRigged:spikes_IN
+    400018: HeartCenterRigged:spikes_IN 1
+    400020: HeartCenterRigged:spikes_MID
+    400022: HeartCenterRigged:spikes_MID 1
+    400024: HeartCenterRigged:spikes_OUT
+    400026: HeartCenterRigged:spikes_OUT 1
+    4300000: HeartCenterRigged:heart
+    4300002: HeartCenterRigged:heartSpikes
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: HeartCenterRigged:heart
+    13700002: HeartCenterRigged:heartSpikes
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
